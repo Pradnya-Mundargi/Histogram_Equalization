@@ -13,3 +13,11 @@ In this Github repo the methods of Histogram Equalization and Adaptive Histogram
 2. Separate the image into n number of tiles 
 3. Repeat all steps mentioned above in the histogram equalization algorithm for each tile 
 4. Piece all the tiles back together
+
+# Results
+##### Input Image
+![Input Image](https://github.com/Pradnya-Mundargi/Histogram_Equalization/blob/main/Results/Input.png) 
+##### Histogram Equalization
+![Hist](https://github.com/Pradnya-Mundargi/Histogram_Equalization/blob/main/Results/Hist_Eq.png)
+##### Adaptive Histogram Equalization
+![Hist](https://github.com/Pradnya-Mundargi/Histogram_Equalization/blob/main/Results/Adaptive.png)
